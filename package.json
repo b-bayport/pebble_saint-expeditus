@@ -1,0 +1,48 @@
+{
+  "name": "saint-expeditus",
+  "author": "bayport",
+  "version": "0.1.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "saint-expeditus",
+    "uuid": "a2dd434b-93a3-4ec8-b253-63e319ca45ed",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "aplite",
+      "basalt",
+      "chalk",
+      "diorite",
+      "emery",
+      "flint",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "messageKeys": [
+      "dummy"
+    ],
+    "resources": {
+      "media": [
+        {
+          "type": "bitmap",
+          "name": "IMAGE_BACKGROUND",
+          "file": "images/saint-expeditus_v1.png"
+        },
+        {
+          "type": "font",
+          "name": "FONT_SAINT_MARTYR_EXPAND_26",
+          "file": "fonts/saintmartyrexpand.ttf"
+        },
+        {
+          "type": "font",
+          "name": "FONT_SAINT_MARTYR_EXPAND_14",
+          "file": "fonts/saintmartyrexpand.ttf"
+        }
+      ]
+    }
+  }
+}
