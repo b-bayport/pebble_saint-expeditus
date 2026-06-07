@@ -1,3 +1,4 @@
+*.svg
 build/
 .pebble-linked-sdks/
 *.pbw
