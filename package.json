@@ -30,17 +30,17 @@
         {
           "type": "bitmap",
           "name": "IMAGE_BACKGROUND",
-          "file": "images/saint-expeditus_v1.png"
+          "file": "images/saint-expeditus_v3.png"
         },
         {
           "type": "font",
-          "name": "FONT_SAINT_MARTYR_EXPAND_26",
-          "file": "fonts/saintmartyrexpand.ttf"
+          "name": "FONT_ZEUS_LAND_24",
+          "file": "fonts/Zeus-Land.ttf"
         },
         {
           "type": "font",
-          "name": "FONT_SAINT_MARTYR_EXPAND_14",
-          "file": "fonts/saintmartyrexpand.ttf"
+          "name": "FONT_ZEUS_LAND_14",
+          "file": "fonts/Zeus-Land.ttf"
         }
       ]
     }
